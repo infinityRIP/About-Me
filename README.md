@@ -1,3 +1,3 @@
-# Game-Jeaw-Jeaw
+# About Me
 
-I made this game for school project , made it with unity 
+My name is infinityRIP , just beginer deverloper 
